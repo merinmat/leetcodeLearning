@@ -17,3 +17,6 @@ function validAnagram(s, t) {
      }
      return true;
 }
+
+//validAnagram('car','arc') true
+//validAnagram('car','rat') false
